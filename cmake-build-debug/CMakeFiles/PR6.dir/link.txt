@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PR6.dir/main.cpp.o CMakeFiles/PR6.dir/DFA.cpp.o CMakeFiles/PR6.dir/Estado.cpp.o  -o PR6 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/darkwaycode/Escritorio/Cya/PR6/DFA.h
+set
+-
+Estado.h
+/home/darkwaycode/Escritorio/Cya/PR6/Estado.h
+
+/home/darkwaycode/Escritorio/Cya/PR6/Estado.h
+vector
+-
+
+/home/darkwaycode/Escritorio/Cya/PR6/main.cpp
+iostream
+-
+DFA.h
+/home/darkwaycode/Escritorio/Cya/PR6/DFA.h
+
